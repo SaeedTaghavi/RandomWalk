@@ -1,1 +1,4 @@
-# RandomWalk
+#Random Walk
+A [random walk](https://en.wikipedia.org/wiki/Random_walk) is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.An elementary example of a random walk is the random walk on the integer number line, Z {\displaystyle \mathbb {Z} } \mathbb {Z} , which starts at 0 and at each step moves +1 or −1 with equal probability.An other example include the path traced by a molecule as it travels in a liquid or a gas.
+
+in this repository, there are fortran codes and resuts for different random walks in 1 dimention, 2 dimentions, and 3 dimentions. In each case, there are both grid aligned and non-grid aligned random walks. notice that the grid aligned results here are only for square lattices; you can easily change the code to find the results for any other kind of latices. Also, they are normal random walks, I mean they are not self-avoiding or self-attracting. 
