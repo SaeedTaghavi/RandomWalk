@@ -8,7 +8,7 @@ For one dimension walk you can find the graphs here:
 
 | ![1-D non grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png)  | ![1-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png)
 |:--:|:--:|
-| *1-D non grid aligned* | *1-D grid aligned* |
+| *four 1-D non grid aligned* | *four 1-D grid aligned* |
 
 
 For two dimensions walk, you can see the graphs here.
@@ -18,3 +18,8 @@ For 2-D walks, in most of the cases, the result graph is very beautiful, these g
 | ![2-D non grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_non-grid-aligned/2D_non-grid-aligned.png)  | ![1-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_grid_aligned/2D_grid_aligned.png)
 |:--:|:--:|
 | *four 2-dimension non-grid aligned random walk on a square lattice* | *four 2-dimension grid aligned random walk on a square lattice* |
+
+
+| ![3-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/3D_grid_aligned/3D_grid_aligned.png)  | 
+|:--:|
+| *four 3-dimension grid aligned random walk on a square lattice* |
