@@ -4,24 +4,17 @@ A [random walk](https://en.wikipedia.org/wiki/Random_walk) is a mathematical obj
 
 in this repository, there are fortran codes and resuts for different random walks in 1 dimention, 2 dimentions, and 3 dimentions. In each case, there are both grid aligned and non-grid aligned random walks. notice that the grid aligned results here are only for square lattices; you can easily change the code to find the results for any other kind of latices. Also, they are normal random walks, I mean they are not self-avoiding or self-attracting. 
 
-In most of the cases the result graph is very beautiful, these graphs would help one to start studying fractals.
+For one dimension walk you can find the graphs here:
 
-
-| ![four 2-dimension grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_grid_aligned/2D_grid_aligned.png)  | 
-|:--:| 
-| *four 2-dimension grid aligned random walk on a square lattice* |
-
-
-| ![four 2-dimension non-grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_non-grid-aligned/2D_non-grid-aligned.png)  | 
-|:--:| 
-| *four 2-dimension non-grid aligned random walk on a square lattice* |
-
-in the case of 1-dimensional random walk, the graph of displacement over step number is like:
-
-<p align="center">
-  <img src="https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png" width="400"/>
-  <img src="https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png" width="400"/>
-</p>
-
-| ![four 2-dimension grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png)  | ![](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png)
+| ![1-D non grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png)  | ![1-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png)
 |:--:|:--:|
+| *1-D non grid aligned* | *1-D grid aligned* |
+
+
+For two dimensions walk, you can see the graphs here.
+
+For 2-D walks, in most of the cases, the result graph is very beautiful, these graphs would help one to start studying fractals.
+
+| ![2-D non grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_non-grid-aligned/2D_non-grid-aligned.png)  | ![1-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_grid_aligned/2D_grid_aligned.png)
+|:--:|:--:|
+| *four 2-dimension non-grid aligned random walk on a square lattice* | *four 2-dimension grid aligned random walk on a square lattice* |
