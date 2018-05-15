@@ -1,4 +1,4 @@
-#Random Walk
+# Random Walk
 
 A [random walk](https://en.wikipedia.org/wiki/Random_walk) is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.An elementary example of a random walk is the random walk on the integer number line, which starts at 0 and at each step moves +1 or −1 with equal probability.An other example include the path traced by a molecule as it travels in a liquid or a gas.
 
