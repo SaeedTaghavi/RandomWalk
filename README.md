@@ -7,14 +7,14 @@ in this repository, there are fortran codes and resuts for different random walk
 In most of the cases the result graph is very beautiful, these graphs would help one to start studying fractals.
 
 
-| ![2 dimension grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_grid_aligned/2D_grid_aligned.png)  | 
+| ![four 2-dimension grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_grid_aligned/2D_grid_aligned.png)  | 
 |:--:| 
-| *2 dimension grid aligned random walk on a square lattice* |
+| *four 2-dimension grid aligned random walk on a square lattice* |
 
 
-| ![2 dimension non-grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_non-grid-aligned/2D_non-grid-aligned.png)  | 
+| ![four 2-dimension non-grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/2D_non-grid-aligned/2D_non-grid-aligned.png)  | 
 |:--:| 
-| *2 dimension non-grid aligned random walk on a square lattice* |
+| *four 2-dimension non-grid aligned random walk on a square lattice* |
 
 
 
