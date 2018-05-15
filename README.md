@@ -16,5 +16,10 @@ In most of the cases the result graph is very beautiful, these graphs would help
 |:--:| 
 | *four 2-dimension non-grid aligned random walk on a square lattice* |
 
+in the case of 1-dimensional random walk, the graph of displacement over step number is like:
 
+<p align="center">
+  <img src="https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png" width="400"/>
+  <img src="https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png" width="400"/>
+</p>
 
