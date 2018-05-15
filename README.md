@@ -23,3 +23,5 @@ in the case of 1-dimensional random walk, the graph of displacement over step nu
   <img src="https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png" width="400"/>
 </p>
 
+| ![four 2-dimension grid aligned random walk on a square lattice](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_non_grid_aligned/1D_non_grid_aligned.png)  | ![](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/1D_grid_aligned.png)
+|:--:|:--:|
