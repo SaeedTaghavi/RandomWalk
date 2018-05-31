@@ -10,6 +10,12 @@ For one dimension walk you can find the graphs here:
 |:--:|:--:|
 | *four 1-D non grid aligned* | *four 1-D grid aligned* |
 
+In fact the distribution of the random walk is a binomial distribution; it is obvious in the following plots. 
+
+
+| ![1-D distrubution](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/distribution/distribution3.png)  | ![1-D distribution](https://github.com/SaeedTaghavi/RandomWalk/blob/master/1D_grid_aligned/distribution/distribution2.png)
+|:--:|:--:|
+| *Plot of the binomial distribution for a number of steps N=100 and 1000 walkers* | *Plot of the binomial distribution for a number of steps 1000 for 1000000 walkers* |
 
 For two dimensions walk, you can see the graphs here.
 
