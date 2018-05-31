@@ -29,3 +29,10 @@ For 2-D walks, in most of the cases, the result graph is very beautiful, these g
 | ![3-D grid aligned](https://github.com/SaeedTaghavi/RandomWalk/blob/master/3D_grid_aligned/3D_grid_aligned.png)  | 
 |:--:|
 | *four 3-dimension grid aligned random walk on a square lattice* |
+
+
+
+
+
+TO DO: 
+use unequal probability of a jump, for example probability of a jump to the right p = 0.6 and p= 0.8 . and check the 1-d distribution
